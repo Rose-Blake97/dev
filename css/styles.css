@@ -1,0 +1,61 @@
+
+@font-face {
+  font-family: "geosanslight";
+  src: url('../fonts/geosanslight.ttf')
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.navbar{
+  font-size: 20px;
+  font-family: geosanslight;
+  padding: 0;
+  margin: 0;
+}
+
+#showcase {
+  min-height: 400px;
+  margin: auto;
+  padding: 0;
+  width: 100%;
+  height: auto;
+}
+
+.boxpic{
+  max-width: 100%;
+}
+
+.box p{
+  text-align: center;
+  font-family: geosanslight;
+  font-size: 20px;
+}
+
+.box h2{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.right{
+    color: #262626;
+    float: right;
+    padding: 15px 0px 0px 12px;
+
+}
+
+.nav-right{
+    list-style-type: none;
+}
+
+
+.right:hover{
+  font-size: 36px;
+  text-shadow: 1px 1px #ccc;
+}
+
+
+  .
